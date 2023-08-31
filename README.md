@@ -1,7 +1,13 @@
 # Ressources
 
+```
+ssh chadi@longleaf.unc.edu
+```
+
+
 First, starts the compute node by launching an interactive node.
-````
+
+```
 srun -p jlessler --gres=gpu:1 --pty /bin/bash
 ```
 Ensure that the hostname is `g1803jles01.ll.unc.edu` by typing command `hostname`
