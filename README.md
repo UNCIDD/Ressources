@@ -1,7 +1,9 @@
-A description of ressources available for the UNC-IDD group. For the moment, concentrate on computing ressources.
+A description of ressources available for the UNC-IDD group. For the moment, concentrate on computing resources.
+
+## Creating a longleaf account
+If not done, you would need to request a longleaf account at: https://help.rc.unc.edu/request-a-cluster-account
 
 ## Accessing the Patron node from VScode
-
 
 First, SSH on longleaf cluster:
  ```
